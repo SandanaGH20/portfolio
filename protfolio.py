@@ -1,6 +1,6 @@
 import streamlit as st
 # Tampilkan gambar
-st.image("daniel-j-schwarz-JaiXLtzGomQ-unsplash.jpg", caption="Foto saya")
+st.image("daniel-j-schwarz-JaiXLtzGomQ-unsplash.jpg", caption="")
 # Judul halaman
 st.title("Megantara Sandana - IT Professional")
 
@@ -26,7 +26,7 @@ st.markdown("""
 
 # Item 2
 st.markdown("""
-* IT Specialist, Kementerian Dalam Negeri Republik Indonesia (2010 - 2012)
+* IT Support, PT Webgis (2012)
 """)
 
 # Pendidikan
@@ -34,12 +34,12 @@ st.header("Pendidikan")
 
 # Item 1
 st.markdown("""
-* Ahli Madya Manajemen Informatika, Universitas Pembangunan Nasional Veteran Jakarta (2008 - 2012)
+* Ahli Madya Manajemen Informatika, Universitas Pembangunan Nasional Veteran Jakarta
 """)
 
 # Item 2
 st.markdown("""
-* Sekolah Menengah Atas Negeri 1 Jakarta (2005 - 2008)
+* Sekolah Menengah Atas Cenderawasih 1 Jakarta
 """)
 
 # Kontak
@@ -55,11 +55,4 @@ st.markdown("""
 * LinkedIn: [Megantara Sandana](https://www.linkedin.com/in/megantara-sandana/)
 """)
 
-# Tombol sosial media
-st.markdown("""
-<div style="text-align: center;">
-<a href="https://www.facebook.com/megantara.sandana"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"></a>
-<a href="https://www.twitter.com/megantara_s"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
-<a href="https://www.instagram.com/megantara_s"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
-</div>
-""")
+
