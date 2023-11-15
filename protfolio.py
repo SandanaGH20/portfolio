@@ -30,7 +30,38 @@ IT Support, PT Webgis (2012)
 # Item 2
 st.markdown("""
 Staf IT, Badan Nasional Pengelolaan Perbatasan Republik Indonesia (2012 - sekarang)
-*Menganalisa Aplikasi Sistem Informasi Manajemen Perbantasan (SIMtas)
+Riwayat Tugas
+Staf IT, Badan Nasional Pengelolaan Perbatasan Republik Indonesia
+2012 - Sekarang
+Pembangunan Aplikasi Sistem Informasi Manajemen Perbatasan (SIMtas)
+•	Berperan sebagai salah satu anggota tim dalam pembangunan aplikasi SIMtas, aplikasi yang berfungsi untuk mengelola data dan informasi perbatasan negara.
+•	Bertanggung jawab dalam pengembangan fitur-fitur aplikasi, seperti fitur manajemen data, fitur analisis data, dan fitur pelaporan.
+•	Aplikasi SIMtas telah diimplementasikan di seluruh kantor BNPP dan telah memberikan manfaat yang signifikan dalam meningkatkan efisiensi dan efektivitas pengelolaan data dan informasi perbatasan negara.
+Perencanaan dan Pembangunan Jaringan Komputer pada Biro Perencanaan dan Kerjasama
+•	Berperan sebagai salah satu anggota tim dalam perencanaan dan pembangunan jaringan komputer pada Biro Perencanaan dan Kerjasama.
+•	Bertanggung jawab dalam melakukan analisis kebutuhan jaringan, desain jaringan, dan pengadaan perangkat jaringan.
+•	Jaringan komputer yang dibangun telah berhasil meningkatkan konektivitas dan keamanan jaringan komputer pada Biro Perencanaan dan Kerjasama.
+Perencanaan dan Pembangunan Server Data dan Informasi BNPP
+•	Berperan sebagai salah satu anggota tim dalam perencanaan dan pembangunan server data dan informasi BNPP.
+•	Bertanggung jawab dalam melakukan analisis kebutuhan server, desain server, dan pengadaan perangkat server.
+•	Server data dan informasi BNPP yang dibangun telah berhasil meningkatkan kapasitas penyimpanan data dan informasi BNPP.
+Melakukan Koordinasi dengan Lembaga Lain Terkait Sistem Informasi
+•	Melakukan koordinasi dengan lembaga lain terkait sistem informasi, seperti Kementerian Dalam Negeri, Kementerian Komunikasi dan Informasi, dan Badan Siber dan Sandi Negara.
+•	Bertanggung jawab dalam menjembatani komunikasi dan kerja sama antar lembaga dalam bidang sistem informasi.
+•	Koordinasi yang dilakukan telah berhasil meningkatkan integrasi sistem informasi antar lembaga.
+Menjadi Koordinator Staf di Bidang IT
+•	Menjadi koordinator staf di bidang IT, bertanggung jawab dalam memimpin dan mengelola staf IT di BNPP.
+•	Bertanggung jawab dalam memastikan kelancaran operasional IT di BNPP.
+•	Staf IT di BNPP telah bekerja dengan baik dan profesional di bawah koordinasi saya.
+Menganalisis Aplikasi yang Dibangun Bagian Lain Sebelum dipublik
+•	Menganalisis aplikasi yang dibangun bagian lain sebelum dipublik, untuk memastikan aplikasi tersebut memenuhi standar keamanan dan kelayakan.
+•	Bertanggung jawab dalam memberikan rekomendasi perbaikan kepada bagian yang membangun aplikasi tersebut.
+•	Aplikasi yang dibangun bagian lain telah menjadi lebih aman dan layak setelah dilakukan analisis oleh saya.
+Kesimpulan
+Selama bekerja di BNPP, saya telah memberikan kontribusi yang signifikan dalam pengembangan sistem informasi di BNPP. Saya telah terlibat dalam berbagai proyek penting, seperti pembangunan aplikasi SIMtas, perencanaan dan pembangunan jaringan komputer, dan perencanaan dan pembangunan server data dan informasi. Saya juga telah menunjukkan kemampuan saya dalam melakukan koordinasi dengan lembaga lain dan menjadi koordinator staf di bidang IT.
+Saya yakin bahwa pengalaman dan kemampuan saya dapat menjadi aset yang berharga bagi perusahaan atau lembaga lain.
+
+
 
 """)
 
