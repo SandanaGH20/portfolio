@@ -21,12 +21,17 @@ st.header("Pengalaman Kerja")
 
 # Item 1
 st.markdown("""
-* Staf IT, Badan Nasional Pengelolaan Perbatasan Republik Indonesia (2012 - sekarang)
+IT Support, PT Webgis (2012)
+*Instalasi dan Perewatan Jaringan Komputer;
+*Perencanaan dan Pembangunan Server pada Badan Pengelola Jalan Tol;
+*Administrator Aplikasi; (Menginput data, dan Tranfer Knowlage kepada Clien)
 """)
 
 # Item 2
 st.markdown("""
-* IT Support, PT Webgis (2012)
+Staf IT, Badan Nasional Pengelolaan Perbatasan Republik Indonesia (2012 - sekarang)
+*Menganalisa Aplikasi Sistem Informasi Manajemen Perbantasan (SIMtas)
+
 """)
 
 # Pendidikan
